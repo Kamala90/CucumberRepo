@@ -1,4 +1,4 @@
 # CucumberRepo
 My Cucumber Projects
 
-This is a sample prjoect
+This is a sample project.
